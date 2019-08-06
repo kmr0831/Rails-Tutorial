@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 #   repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?("/")
 #   "https://github.com/#{repo_name}.git"
 # end
-
+gem 'bootstrap-sass', '3.3.7'
 gem 'rails',        '5.1.6'
 gem 'puma',         '3.9.1'
 gem 'sass-rails',   '5.0.6'
